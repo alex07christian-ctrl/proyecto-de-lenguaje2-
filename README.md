@@ -1,3 +1,3 @@
 proyecto hecho por 
-christian blanco 
+christian blanco, 
 richard rodriguez 
